@@ -59,13 +59,13 @@
 
 
 # Contributing
-​Contributors: Bojan Golic
+​Contributor: Bojan Golic
 
 # Tests
 N/A
 
 # Questions?
 ## Please contact me:
-  * [My GitHub Profile]()
-  * [My Github Project Repository]()
-  * [My Github Deployed IO]()
+  * [My GitHub Profile](https://github.com/bokigolic)
+  * [My Github Project Repository](https://github.com/bokigolic/22.-State-Challenge-Redux-Store)
+  * [My  Deployed App](https://reduxstore1.herokuapp.com/)
